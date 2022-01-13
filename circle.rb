@@ -3,7 +3,5 @@ class Circle
         @radius = radius
     end
 
-    def return_radius
-        @radius
-    end
+
 end
